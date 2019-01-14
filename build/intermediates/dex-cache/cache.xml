@@ -1,0 +1,158 @@
+<?xml version="1.0" encoding="utf-8"?>
+<items version="2" >
+
+    <item
+        is-multidex="false"
+        jar="C:\Users\Yukio\.gradle\caches\modules-2\files-2.1\com.android.support.constraint\constraint-layout-solver\1.1.3\bde0667d7414c16ed62d3cfe993cff7f9d732373\constraint-layout-solver-1.1.3.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.0"
+        sha1="bde0667d7414c16ed62d3cfe993cff7f9d732373">
+        <dex dex="C:\Users\Yukio\Desktop\talalarmo\build\intermediates\pre-dexed\debug\constraint-layout-solver-1.1.3_355322072c660f7a503dc30fb5f435d0156696e1.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\Yukio\Desktop\talalarmo\build\intermediates\exploded-aar\com.android.support\animated-vector-drawable\25.4.0\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.0"
+        sha1="4961be1437163ab598620a3c907c0f3432936f51">
+        <dex dex="C:\Users\Yukio\Desktop\talalarmo\build\intermediates\pre-dexed\debug\com.android.support-animated-vector-drawable-25.4.0_1255bf0cb6d59b5aad4e7259d9ab21dd02ec6b0b.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\Yukio\.gradle\caches\modules-2\files-2.1\com.android.support\support-annotations\25.4.0\f6a2fc748ae3769633dea050563e1613e93c135e\support-annotations-25.4.0.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.0"
+        sha1="f6a2fc748ae3769633dea050563e1613e93c135e">
+        <dex dex="C:\Users\Yukio\Desktop\talalarmo\build\intermediates\pre-dexed\debug\support-annotations-25.4.0_0b3029d9c35ef0f493fc8b3ab94dc401b7d8125d.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\Yukio\Desktop\talalarmo\build\intermediates\exploded-aar\com.android.support\support-compat\25.4.0\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.0"
+        sha1="a64026daf4819a589aea776f5deb19b257a104d1">
+        <dex dex="C:\Users\Yukio\Desktop\talalarmo\build\intermediates\pre-dexed\debug\com.android.support-support-compat-25.4.0_a44354f871060e24c62711d8a3cd3cbb88fa1ce7.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\Yukio\Desktop\talalarmo\build\intermediates\exploded-aar\com.android.support\support-core-utils\25.4.0\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.0"
+        sha1="e04f28ac2dd9bbe48ced6fc87fedf46c2586f5d6">
+        <dex dex="C:\Users\Yukio\Desktop\talalarmo\build\intermediates\pre-dexed\debug\com.android.support-support-core-utils-25.4.0_5ef7701946983c5fcf378be0455ad778165a704b.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\Yukio\Desktop\talalarmo\build\intermediates\exploded-aar\com.github.trikita\jedux\-SNAPSHOT\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.0"
+        sha1="e381519a30b978f3d74508538b9f63ea81866bd1">
+        <dex dex="C:\Users\Yukio\Desktop\talalarmo\build\intermediates\pre-dexed\debug\com.github.trikita-jedux--SNAPSHOT_f184b27b3bf89543f8cf8254487f17f9a4f3b3af.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\Yukio\Desktop\talalarmo\build\intermediates\exploded-aar\com.android.support\support-media-compat\25.4.0\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.0"
+        sha1="05e3d15c623cd98f0eb43c8249fb6151fae0786c">
+        <dex dex="C:\Users\Yukio\Desktop\talalarmo\build\intermediates\pre-dexed\debug\com.android.support-support-media-compat-25.4.0_6d93e657d8dc7bfe3c6710cf95ddd47ad74aac01.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\Yukio\Desktop\talalarmo\build\intermediates\exploded-aar\com.android.support\support-core-ui\25.4.0\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.0"
+        sha1="c2deeac83ffa1304264bc755c2ddb84e7a7fa239">
+        <dex dex="C:\Users\Yukio\Desktop\talalarmo\build\intermediates\pre-dexed\debug\com.android.support-support-core-ui-25.4.0_f3aa6c5f854c6bff6fac9b9f8fbc177b288b405e.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\Yukio\.gradle\caches\modules-2\files-2.1\org.immutables\gson\2.1.14\5815fc58a2eee5c9f957e92b343974288e44a8a0\gson-2.1.14.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.0"
+        sha1="5815fc58a2eee5c9f957e92b343974288e44a8a0">
+        <dex dex="C:\Users\Yukio\Desktop\talalarmo\build\intermediates\pre-dexed\debug\gson-2.1.14_b3e368d305c1b1ea558e9c1f20a9b1ae9f47508a.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\Yukio\Desktop\talalarmo\build\intermediates\exploded-aar\co.trikita\anvil-sdk15\0.3.1\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.0"
+        sha1="a03477e2e13cae4f18cd447ac19cde312ad85964">
+        <dex dex="C:\Users\Yukio\Desktop\talalarmo\build\intermediates\pre-dexed\debug\co.trikita-anvil-sdk15-0.3.1_a16e0c3a4768ce65ad0c349d688b8108b6cb975c.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\Yukio\.gradle\caches\modules-2\files-2.1\com.google.code.gson\gson\2.5\686c608d1805b6d4d425ec4459e88164ffc85870\gson-2.5.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.0"
+        sha1="686c608d1805b6d4d425ec4459e88164ffc85870">
+        <dex dex="C:\Users\Yukio\Desktop\talalarmo\build\intermediates\pre-dexed\debug\gson-2.5_eb8c35230c0a830ec008ef67dcc43a7a21ed3a06.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\Yukio\Desktop\talalarmo\build\intermediates\exploded-aar\com.github.trikita\promote\-SNAPSHOT\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.0"
+        sha1="f8c8e45f315f0392a7a979e78f01204708e8427c">
+        <dex dex="C:\Users\Yukio\Desktop\talalarmo\build\intermediates\pre-dexed\debug\com.github.trikita-promote--SNAPSHOT_4a70dda68442c4a3cb0f03b730f02de4278defbc.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\Yukio\Desktop\talalarmo\build\intermediates\exploded-aar\com.android.support\appcompat-v7\25.4.0\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.0"
+        sha1="a7a0aa678c3bbadb67fb41df9e107f7ee9087902">
+        <dex dex="C:\Users\Yukio\Desktop\talalarmo\build\intermediates\pre-dexed\debug\com.android.support-appcompat-v7-25.4.0_46c6e7986917dc824f325f0f3c2875e0e060cf7a.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\Yukio\Desktop\talalarmo\build\intermediates\exploded-aar\com.android.support.constraint\constraint-layout\1.1.3\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.0"
+        sha1="b15c6ded887ad967e20bb335c1a121b253c04dce">
+        <dex dex="C:\Users\Yukio\Desktop\talalarmo\build\intermediates\pre-dexed\debug\com.android.support.constraint-constraint-layout-1.1.3_807d774997e831a43bf4c0f52c985d0e705bedcb.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\Yukio\Desktop\talalarmo\build\intermediates\exploded-aar\com.android.support\support-v4\25.4.0\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.0"
+        sha1="d7c42c80f6509b9ea4db28ca7859ffae08ec5741">
+        <dex dex="C:\Users\Yukio\Desktop\talalarmo\build\intermediates\pre-dexed\debug\com.android.support-support-v4-25.4.0_e125c851cd96fca88a55552e528d6249773ba3d8.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\Yukio\Desktop\talalarmo\build\intermediates\exploded-aar\com.android.support\support-fragment\25.4.0\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.0"
+        sha1="d29e451fd5bcc265989bf80afd4f149d95d72e7d">
+        <dex dex="C:\Users\Yukio\Desktop\talalarmo\build\intermediates\pre-dexed\debug\com.android.support-support-fragment-25.4.0_1fbf64834b7847951252f6ad38ccc9aa5165f8d5.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\Yukio\Desktop\talalarmo\build\intermediates\exploded-aar\com.android.support\support-vector-drawable\25.4.0\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.0"
+        sha1="b77e50b3c31d0fc64148530f7077f79ec114b5b9">
+        <dex dex="C:\Users\Yukio\Desktop\talalarmo\build\intermediates\pre-dexed\debug\com.android.support-support-vector-drawable-25.4.0_04c7a5c15d4b67d94583bea09065277ae7682d49.jar" />
+    </item>
+
+</items>
