@@ -35,8 +35,8 @@ public class MainActivity extends Activity {
         Promote.after(7).days().every(7).days().rate(this);
         Promote.after(3).days().every(14).days().share(this,
                 Promote.FACEBOOK_TWITTER,
-                "https://github.com/trikita/talalarmo",
-                "Talalarmo: elegant open-source alarm clock");
+                "https://github.com/Yukio-n/yukiuClock",
+                "Yukiclock");
     }
 
     public void openSettings() {
