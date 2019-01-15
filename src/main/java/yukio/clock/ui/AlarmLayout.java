@@ -261,8 +261,9 @@ public class AlarmLayout {
             } else if (item.getItemId() == R.id.menu_feedback) {
                 Context c = v.getContext();
                 Intent intent = new Intent(Intent.ACTION_SENDTO,
-                        Uri.fromParts("mailto", "adm.trikita@gmail.com", null));
-                intent.putExtra(Intent.EXTRA_SUBJECT, "Feedback about Talalarmo");
+                        Uri.fromParts("mailto", "thoxyu@gmail.com", null));
+                intent.putExtra(Intent.EXTRA_SUBJECT, "Отзыв о будильнике");
+                intent.putExtra(Intent.EXTRA_TEXT, "Мне Понравилось:\n\nМне не понравилось:");
                 v.getContext().startActivity(Intent.createChooser(intent, c.getString(R.string.leave_feedback)));
             }
             return true;
